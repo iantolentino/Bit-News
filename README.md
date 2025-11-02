@@ -89,35 +89,6 @@ bitcoin-trading-dashboard/
 └── .gitignore            # Git ignore rules
 ```
 
-## 💡 Trading Strategy
-
-### Entry Conditions
-- RSI ≤ 30 on 15-minute chart
-- 5-min, 15-min & 1-hour bullish alignment
-- EMA 20 > EMA 50 on all timeframes
-- Green candle formation with volume increase
-
-### Exit Conditions
-- RSI reaches 65-80 range
-- 0.5% profit target achieved
-- Stop loss triggered at 0.3-0.4%
-
-### Risk Management
-- 0.3-0.4% risk per trade
-- Maximum 2-5 trades per day
-- $3 daily loss limit
-- Position sizing based on signal quality
-
-## 🕒 Optimal Trading Times (PHT)
-
-| Session | Time (PHT) | Recommendation |
-|---------|------------|----------------|
-| **London Open** | 4:00 PM - 7:00 PM | 🟢 **ACTIVE** - High volatility |
-| **US Open** | 9:00 PM - 12:00 AM | 🟡 **ACTIVE** - Momentum moves |
-| **Asian Session** | 8:00 AM - 12:00 PM | 🔴 **AVOID** - Low liquidity |
-
-**Best Trading Days:** Tuesday - Thursday
-
 ## 🔧 Configuration
 
 ### Customizing News Sources
