@@ -2,10 +2,6 @@
 
 A professional, responsive web application designed for Bitcoin traders that provides real-time market news, trading strategy guidance, and session timing alerts.
 
-![Bitcoin Trading Dashboard](https://img.shields.io/badge/Bitcoin-Trading%20Dashboard-orange?style=for-the-badge)
-![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?style=for-the-badge)
-![Responsive](https://img.shields.io/badge/Design-Responsive-green?style=for-the-badge)
-
 ## ✨ Features
 
 ### 📰 Multi-Source News Aggregation
