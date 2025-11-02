@@ -145,19 +145,6 @@ CSS variables in the `<style>` section:
 }
 ```
 
-## 🐛 Troubleshooting
-
-### Common Issues
-
-**Favicon Not Displaying on GitHub Pages**
-```html
-<!-- Change from relative path -->
-<link rel="icon" href="assets/bitcoin.png" type="image/x-icon" />
-
-<!-- To absolute path or CDN -->
-<link rel="icon" href="https://cdn.jsdelivr.net/gh/your-username/bitcoin-trading-dashboard/assets/bitcoin.png" type="image/x-icon" />
-```
-
 **News Not Loading**
 - Check browser console for CORS errors
 - Some APIs may have rate limits
