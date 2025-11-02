@@ -1,6 +1,3 @@
-# Bitcoin Trading Dashboard - README.md
-
-```markdown
 # 🚀 Bitcoin Trading Dashboard
 
 A professional, responsive web application designed for Bitcoin traders that provides real-time market news, trading strategy guidance, and session timing alerts.
