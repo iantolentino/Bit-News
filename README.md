@@ -148,10 +148,6 @@ We welcome contributions! Please:
 - Test all API integrations
 - Keep dependencies minimal
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 **Trading involves substantial risk of loss and is not suitable for every investor.** This dashboard is for educational and informational purposes only. The creators are not responsible for any trading decisions made based on the information provided.
@@ -160,11 +156,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Always do your own research
 - Never invest more than you can afford to lose
 - Consider consulting with a qualified financial advisor
-
-## 🆘 Support
-
-If you encounter any issues:
-
-1. Check the [Troubleshooting](#🐛-troubleshooting) section
-2. Search existing [GitHub Issues](https://github.com/your-username/bitcoin-trading-dashboard/issues)
-3. Create a new issue with details about the problem
