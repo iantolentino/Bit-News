@@ -47,50 +47,6 @@ npm run dev
 
 ---
 
-## 🏗️ Project Structure
-
-```
-Bit-News/
-│── public/         # Static assets
-│── src/
-│   ├── components/ # UI components
-│   ├── hooks/       # Custom hooks
-│   ├── utils/       # Utility functions
-│   ├── services/    # API services
-│   └── App.jsx      # Root app
-│
-└── package.json
-```
-
----
-
-## ⚙️ Environment Variables
-
-Create a `.env` file:
-
-```
-VITE_API_KEY=your_api_key_here
-```
-
----
-
-## 📤 Deployment
-
-Deploy easily using:
-
-* **Vercel**
-* **Netlify**
-* **GitHub Pages**
-
-Example (Vercel):
-
-```bash
-npm install -g vercel
-vercel
-```
-
----
-
 ## 🤝 Contributing
 
 See the full guide here: **CONTRIBUTING.md**
