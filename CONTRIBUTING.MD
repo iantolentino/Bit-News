@@ -100,6 +100,6 @@ Look for issues labeled **good first issue** or **help wanted**.
 
 ---
 
-## 🙌 Thank You
+## Thank You
 
 Every contribution helps the project grow. Feel free to open discussions or reach out through issues if you need help.
