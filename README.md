@@ -2,7 +2,7 @@
 
 A professional, responsive web application designed for Bitcoin traders that provides real-time market news, trading strategy guidance, and session timing alerts. 
 
-## ✨ Features
+## ✨ Features 
 
 ### 📰 Multi-Source News Aggregation
 - **7 Free News APIs** integrated for comprehensive coverage
